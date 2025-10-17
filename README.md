@@ -1,11 +1,11 @@
-# 🚗 Commuter App
+# Commuter App
 
 **Team Members:**  
 Daniyal • Simon • Samuel • Isaiah  
 
 ---
 
-## 📱 Overview
+## Overview
 **Commuter App** is a mobile application designed to make the lives of commuters easier and more efficient.  
 It provides quick access to valuable resources and tools for daily travel.
 
@@ -13,19 +13,19 @@ It provides quick access to valuable resources and tools for daily travel.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - **Frontend:** React Native  
 - **Backend:** Firebase  
 - **Language:** Python  
 
 ---
 
-## 🧩 Features (Planned / TBD)
-- 🚦 **Traffic Log** — track and analyze commute times and traffic patterns  
-- 🤖 **AI Assistant** — provide intelligent commuting tips and updates  
-- 📍 **Nearby Destinations** — find useful locations close to the user using GPS  
+## Features (Planned / TBD)
+- **Traffic Log** — track and analyze commute times and traffic patterns  
+- **AI Assistant** — provide intelligent commuting tips and updates  
+- **Nearby Destinations** — find useful locations close to the user using GPS  
 
 ---
 
-## 🚧 Status
-**Development Stage:** TBD
+## Input/Output
+**TBD**
