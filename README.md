@@ -1,7 +1,31 @@
-# Commuter App
-Daniyal, Simon, Samuel, Isaiah
-Mobile App for Commuters
-  It is interesting to us because some of us are comuters and see this app as a good way for commuters to have easy access to valuable resources in their every day lives. 
-  Python, React Native, Firebase
-  TBD
-  Traffic log, AI assistant, find destintations close to user using their location, etc...
+# 🚗 Commuter App
+
+**Team Members:**  
+Daniyal • Simon • Samuel • Isaiah  
+
+---
+
+## 📱 Overview
+**Commuter App** is a mobile application designed to make the lives of commuters easier and more efficient.  
+It provides quick access to valuable resources and tools for daily travel.
+
+> This project is especially meaningful to us because some of our team members are commuters — we wanted to create an app that helps people navigate their everyday routines more smoothly.
+
+---
+
+## 🧠 Tech Stack
+- **Frontend:** React Native  
+- **Backend:** Firebase  
+- **Language:** Python  
+
+---
+
+## 🧩 Features (Planned / TBD)
+- 🚦 **Traffic Log** — track and analyze commute times and traffic patterns  
+- 🤖 **AI Assistant** — provide intelligent commuting tips and updates  
+- 📍 **Nearby Destinations** — find useful locations close to the user using GPS  
+
+---
+
+## 🚧 Status
+**Development Stage:** TBD
